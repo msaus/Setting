@@ -1,0 +1,9 @@
+# nコマンドで実行出来るように環境を整える
+sudo apt-get install -y nodejs npm
+sudo npm cache clean
+sudo npm install n -g
+sudo n stable
+sudo ln -sf /usr/local/bin/node /usr/bin/node
+
+# 推奨版のバージョンに変更
+n 8.11.3
