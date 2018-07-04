@@ -1,3 +1,8 @@
+# 以下のコマンドを事項する必要があります
+git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+git clone https://github.com/Shougo/vimproc ~/.vim/bundle/vimproc
+
+
 filetype on                                                                                                                          
 set cursorline
 set encoding=UTF-8
