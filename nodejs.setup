@@ -4,6 +4,7 @@ sudo npm cache clean
 sudo npm install n -g
 sudo n stable
 sudo ln -sf /usr/local/bin/node /usr/bin/node
+npm install -g npm
 
 # 推奨版のバージョンに変更
 n 8.11.3
