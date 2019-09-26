@@ -3,7 +3,7 @@
 " git clone https://github.com/Shougo/vimproc ~/.vim/bundle/vimproc
 
 
-filetype on                                                                                                                          
+filetype on
 set cursorline
 set encoding=UTF-8
 set fileencoding=UTF-8
