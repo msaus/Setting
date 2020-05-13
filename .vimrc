@@ -2,6 +2,14 @@
 " git clone https://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
 " git clone https://github.com/Shougo/vimproc ~/.vim/bundle/vimproc
 
+" 上記実行後インストール&makeを実行する
+" sudo apt update
+" sudo apt install -y make make-guile gcc
+" cd .vim/bundle/vimproc/
+" make
+
+
+
 
 filetype on
 set cursorline
